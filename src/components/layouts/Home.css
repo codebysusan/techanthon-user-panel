@@ -1,0 +1,16 @@
+.icon {
+  height: 1rem;
+  width: 1rem;
+}
+
+.overflow {
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 22rem;
+}
+
+.search {
+  margin-bottom: 0.1rem;
+  height: 1.2rem;
+  width: 1.2rem;
+}
